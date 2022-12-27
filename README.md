@@ -1,6 +1,8 @@
 # Weather-App
 Weather app built with HTML, CSS & JavaScript using OpenWeatherMap API.
-# MoviesLand
+
+## Website is LIVE at 
+https://tanmay-kadam-1.github.io/Weather-App/
 
 ## Some Screenshots of Website
 
